@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Rakesh Daman👋</h1>
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=⚡yrdaman⚡&textBg=false&animation=twinkling&desc=💻%20deep%20in%20dev%20mode,%20turning%20“wtf%20is%20this”%20into%20“wait%20I%20got%20this”%20🧠⚡&descAlign=50&descAlignY=69&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=⚡YRDAMAN⚡&textBg=false&desc=In%20motion%20—%20learning%20fast,%20failing%20forward,%20building%20like%20I’m%20chasing%20fate%20⚔️🔥&descAlignY=67)
 
 ######
 
