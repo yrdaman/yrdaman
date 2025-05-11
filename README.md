@@ -1,5 +1,7 @@
 <h1 align="left">Hi there, I'm Rakesh Daman👋</h1>
 
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=⚡yrdaman⚡&textBg=false&animation=twinkling&desc=💻%20deep%20in%20dev%20mode,%20turning%20“wtf%20is%20this”%20into%20“wait%20I%20got%20this”%20🧠⚡&descAlign=50&descAlignY=69&reversal=true)
+
 ######
 
 <h2 align="left">About me</h2>
@@ -9,7 +11,7 @@
 <p align="left"> 🎓 I’m a student , currently focusing on Python, Data Structures & Algorithms (DSA) and front end Technologies.</p>
 <p align="left">🔍 I'm fascinated by Learning New things daily and finding out hidden patterns in world we know</p>
 <p align="left">🧑‍🎓 I’m also Strengthening up on C programming and expanding my knowledge to include C++ soon.</p>
-<p align="left"> 🎯 Goals: To Be Data Scientist</p>
+<p align="left"> 🎯 Goals: To Be ___________</p>
 <p align="left"> 💻 I'm working on a cool project to build a voice-enabled user-interface for geospatial map-based web applications, leveraging the power of Python, TensorFlow.js, and Leaflet.</p>
 
 ###
